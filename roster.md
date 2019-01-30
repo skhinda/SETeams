@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Shan Khinda](https://github.com/skhinda)
